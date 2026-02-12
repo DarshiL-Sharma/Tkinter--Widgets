@@ -1,0 +1,1 @@
+This repository provides a comprehensive collection of Tkinter widget examples in Python. It serves as a practical reference for developers and learners who want to explore the full range of GUI components available in the Tkinter package
